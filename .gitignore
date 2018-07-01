@@ -240,3 +240,32 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/SeamCarving/email
+/SeamCarving/gauss
+/SeamCarving/newtest
+/SeamCarving/outputs - 副本
+/SeamCarving/sqrt
+/SeamCarving/test
+/SeamCarving/test2
+/SeamCarving/autorun.bat
+/SeamCarving/data.out
+*.aux
+*.out
+*.gz
+*.bak
+/SeamCarving/6.jpg
+/SeamCarving/5.jpg
+/SeamCarving/4.jpg
+/SeamCarving/3.jpg
+/SeamCarving/2.png
+/SeamCarving/1.jpg
+/SeamCarving/x9.jpg
+/SeamCarving/x8.jpg
+/SeamCarving/x7.jpg
+/SeamCarving/x6.jpg
+/SeamCarving/x5.jpg
+/SeamCarving/x4.jpg
+/SeamCarving/x3.jpg
+/SeamCarving/x2.jpg
+/SeamCarving/x1.jpg
+/report.tex
